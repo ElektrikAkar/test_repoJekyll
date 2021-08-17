@@ -11,3 +11,5 @@ sticky_navigation: true
 prev_next_buttons_location: bottom
 search_enabled: true
 hljs_style: github-gist
+logo: 'https://osqp.org/docs/_static/logo.png'
+site_favicon: 'https://your.url/here.ico'
