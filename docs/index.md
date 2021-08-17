@@ -7,6 +7,10 @@ nav_exclude: true
 # Read The Docs Theme for Jekyll and GitHub Pages
 
 This is a port of the
+Some inline Latex: $$a^2 + b^2 = c^2$$
+
+ABC = $x^2$
+
 [Read The Docs](https://sphinx-rtd-theme.readthedocs.io) theme to
 [Jekyll](https://jekyllrb.com/), so that it can be used with GitHub Pages.
 
