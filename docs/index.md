@@ -12,6 +12,11 @@ Some inline Latex: $$a^2 + b^2 = c^2$$
 ABC = $$x^2$$
 $$a^2 + b^2 = c^2$$
 $$a^2 + b^2 = c^2$$
+$$\frac{\partial u_{2:N}}{\partial t} = D_{s,i}(T)Au_{2:N}  + Bj_i(t)$$
+$$\frac{\partial z_{2:N}}{\partial t} = D_{s,i}(T)V^{-1}\Lambda Vz_{2:N}  + \tilde{B}j_i(t)$$
+$$\frac{\partial u_{2:N}}{\partial t} = D_{s,i}(T)V^{-1}\Lambda Vu_{2:N}  + VBj_i(t)$$
+$$    \frac{\partial z_{2:N}}{\partial t} = D_{s,i}(T) \tilde{A}_iz_{2:N}  + \tilde{B}_ij_i(t) \\
+    c_i = \begin{bmatrix} \tilde{C}_iz_{i,2:N} + \frac{\tilde{D}_ij_i(t)}{D_{s,i(T)}} \\ \tilde{C}_{i,c} \left( \tilde{C}_{i}z_{i,2:N} +  \frac{\tilde{D}_ij_i(t)}{D_{s,i(T)}} \right) + \frac{j_i(t)D_{s,i}(T)}{\tilde{D}_i} \end{bmatrix}$$
 
 [Read The Docs](https://sphinx-rtd-theme.readthedocs.io) theme to
 [Jekyll](https://jekyllrb.com/), so that it can be used with GitHub Pages.
