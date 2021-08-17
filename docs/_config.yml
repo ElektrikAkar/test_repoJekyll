@@ -1,5 +1,5 @@
-title: Read The Docs Jekyll Theme
-description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
+title: SLIDE
+description: Official documentation of SLIDE software.
 remote_theme: rundocs/jekyll-rtd-theme
 
 # Theme settings:
@@ -11,5 +11,3 @@ sticky_navigation: true
 prev_next_buttons_location: bottom
 search_enabled: true
 hljs_style: github-gist
-logo: 'https://osqp.org/docs/_static/logo.png'
-site_favicon: 'https://your.url/here.ico'
