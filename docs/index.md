@@ -9,7 +9,9 @@ nav_exclude: true
 This is a port of the
 Some inline Latex: $$a^2 + b^2 = c^2$$
 
-ABC = $x^2$
+ABC = $$x^2$$
+$$a^2 + b^2 = c^2$$
+$$a^2 + b^2 = c^2$$
 
 [Read The Docs](https://sphinx-rtd-theme.readthedocs.io) theme to
 [Jekyll](https://jekyllrb.com/), so that it can be used with GitHub Pages.
